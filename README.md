@@ -24,7 +24,6 @@ The project, undertaken from April 3, 2022, to May 8, 2022, entailed comprehensi
 
 Access the project's Colab environment for experimentation and further exploration: [Google Colab Link](https://colab.research.google.com/drive/1mxDiNOHu8rUWUC668QTRF_Y5eRJvdvik)
 
-
 ## Getting Started
 
 ### Installation
