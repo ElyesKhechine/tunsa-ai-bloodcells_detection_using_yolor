@@ -6,11 +6,11 @@
 
 ## Introduction
 
-This project, executed by TUNSA AI, focuses on the development of a robust pipeline for the detection and classification of blood cells in microscopic images. Leveraging advanced computer vision techniques and machine learning algorithms, our goal is to accurately identify and classify platelets, red blood cells, and white blood cells in medical images.
+This project focuses on the development of a robust pipeline for the detection and classification of blood cells in microscopic images. Leveraging advanced computer vision techniques and machine learning algorithms, our goal is to accurately identify and classify platelets, red blood cells, and white blood cells in medical images.
 
 ## Project Scope
 
-The project, undertaken from April 3, 2022, to May 8, 2022, entailed comprehensive research, experimentation, and model development phases.
+The project was undertaken by a subteam from the Tunisian Space Association's AI team from April 3, 2022, to May 8, 2022. It entailed comprehensive research, experimentation, and model development phases.
 
 ## Technical Details
 
@@ -22,21 +22,20 @@ The project, undertaken from April 3, 2022, to May 8, 2022, entailed comprehensi
 
 ## Project Colab Link
 
-Access the project's Colab environment for experimentation and further exploration: [Google Colab Link](https://colab.research.google.com/drive/1mxDiNOHu8rUWUC668QTRF_Y5eRJvdvik)
+Access the [project's Google Colab](https://colab.research.google.com/drive/1mxDiNOHu8rUWUC668QTRF_Y5eRJvdvik) environment for experimentation and further exploration.
 
 ## Getting Started
 
 ### Installation
 
-1. Ensure compatibility and setup of required hardware components and software dependencies.
-2. Clone the project repository from GitHub.
-3. Install necessary Python packages and dependencies specified in the requirements.txt file.
+1. Clone the project repository.
+2. Install necessary Python packages and dependencies.
 
 ### Usage
 
 1. Prepare input images for analysis and classification.
 2. Run the provided scripts or notebooks to load the pre-trained model and perform inference on the images.
-3. Analyze the results and fine-tune parameters as needed for specific applications.
+3. Analyze the results and fine-tune parameters as needed.
 
 ## Contributing
 
@@ -45,7 +44,6 @@ Contributions aimed at enhancing project functionalities and addressing emerging
 ## License
 
 This project is licensed under the [GPL-3.0 License](LICENSE).
-
 
 ## Contacts
 
